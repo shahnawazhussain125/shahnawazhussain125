@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <img src="https://api.daily.dev/devcards/XYZ.png?r=zpj" width="400" alt="Shahnawaz Hussain Dev Card" align="right"/>
 </a>
 <!-- <a href="https://app.daily.dev/ayushkanduri">
-  <img src="https://github.com/Ayush-Kanduri/Ayush-Kanduri/blob/master/devcard.svg" width="400" alt="Ayush Kanduri's Dev Card" align="right"/>
+  <img src="https://github.com/shahnawazhussain125/shahnawazhussain125/blob/master/devcard.svg" width="400" alt="Ayush Kanduri's Dev Card" align="right"/>
 </a> -->
 
 ### Hi, I'm Shahnawaz Hussain, a passionate Mobile App 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 from Pakistan!
@@ -96,13 +96,13 @@ Here are some ideas to get you started:
 
 <p align="left">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ayush-Kanduri&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shahnawazhussain125&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <br />
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ayush-Kanduri&theme=radical&show_icons=true&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahnawazhussain125&theme=radical&show_icons=true&hide_border=true)
 <br />
-[![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-Kanduri&theme=radical&hide_border=true&layout=compact)](https://github.com/Ayush-Kanduri/github-readme-stats)
+[![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahnawazhussain125&theme=radical&hide_border=true&layout=compact)](https://github.com/shahnawazhussain125/github-readme-stats)
 <br />
-<img src="https://activity-graph.herokuapp.com/graph?username=Ayush-Kanduri&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
+<img src="https://activity-graph.herokuapp.com/graph?username=shahnawazhussain125&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
 
 </p>
 
