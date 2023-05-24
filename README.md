@@ -114,13 +114,14 @@ Here are some ideas to get you started:
 
 ## ⭐ Thanks for the visit!
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ayush-Kanduri&theme=radical)](https://github.com/Ayush-Kanduri)
+[![trophy](https://github-profile-trophy.vercel.app/?username=shahnawazhussain125&theme=radical)](https://github.com/shahnawazhussain125)
 <br />
 <br />
-[![Visitor Count](https://visitcount.itsvg.in/api?id=Ayush-Kanduri&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Visitor Count](https://visitcount.itsvg.in/api?id=shahnawazhussain125&icon=0&color=0)](https://visitcount.itsvg.in)
 <br />
 <br />
 ![Quote of the Day](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <br />
 <br />
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&lines=%E2%80%9CBelieve+in+yourself.%E2%80%9D)](https://git.io/typing-svg)
+
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&lines=%E2%80%9CBelieve+in+yourself.%E2%80%9D)](https://git.io/typing-svg) -->
