@@ -49,10 +49,10 @@ Here are some ideas to get you started:
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/shahnawazhussain125/)
 [<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />](https://www.hackerrank.com/shahnawazhussai1/)
 [<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />](https://leetcode.com/shahnawazhussain125/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@shahnawazhussain125)
-[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Shahnawaz-Hussain-69)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/10728517)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/Shahnawaz Hussain#1673)
+[![Medium](https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@@shahnawazhussain125)
+[![Quora](https://img.shields.io/badge/-Quora-B92B27?style=for-the-badge&logo=Quora&logoColor=white)](https://quora.com/profile/Shahnawaz-Hussain-69)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=Stackoverflow&logoColor=white)](https://stackoverflow.com/users/10728517)
+[![Discord](https://img.shields.io/badge/-Discord-7289d9?style=for-the-badge&logo=Discord&logoColor=white)](htttps://discord.gg/Shahnawaz%20Hussain#1673)
 
 <!-- <span> [𝐏𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨 𝐖𝐞𝐛𝐬𝐢𝐭𝐞](http://.dev)&emsp;|&emsp;[𝐑𝐞𝐬𝐮𝐦𝐞](http://.dev/resume) </span> -->
 
