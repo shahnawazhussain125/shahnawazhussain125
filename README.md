@@ -88,7 +88,7 @@ Here are some ideas to get you started:
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![EXPRESS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-cb3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![JWT](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white)
@@ -103,7 +103,7 @@ Here are some ideas to get you started:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Netlify](https://img.shields.io/badge/netlify-114847.svg?style=for-the-badge&logo=netlify&logoColor=white#00C7B7)
 [![App Store](https://img.shields.io/badge/App%20Store-blue?style=for-the-badge&logo=app-store&logoColor=white)](https://itunes.apple.com/app/)
 [![Google Play](https://img.shields.io/badge/Google%20Play-green?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/)
 
@@ -113,7 +113,6 @@ Here are some ideas to get you started:
 ![HEROKU](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![VERCEL](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![VSC](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
@@ -122,6 +121,14 @@ Here are some ideas to get you started:
 
 ### OS and IDE's :
 
+![MACOS](https://img.shields.io/badge/macos-000000.svg?style=for-the-badge&logo=apple&logoColor=white)
+![MACOS](https://img.shields.io/badge/windows-00adef.svg?style=for-the-badge&logo=windows&logoColor=white)
+![UBUNTU](https://img.shields.io/badge/ubuntu-dd4814.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
+![VSC](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![XCODE](https://img.shields.io/badge/xcode-324ed6.svg?style=for-the-badge&logo=xcode&logoColor=white)
+![XCODE](https://img.shields.io/badge/xcode-324ed6.svg?style=for-the-badge&logo=xcode&logoColor=white)
+![ANDROIDSTUDIO](https://img.shields.io/badge/android%20studio-78c257.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 <br />
 
 ## 📊 GitHub Stats
@@ -141,5 +148,3 @@ Here are some ideas to get you started:
 ![Quote of the Day](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <br />
 <br />
-
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&lines=%E2%80%9CBelieve+in+yourself.%E2%80%9D)](https://git.io/typing-svg) -->
