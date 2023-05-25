@@ -129,7 +129,7 @@ Here are some ideas to get you started:
 <p align="left">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shahnawazhussain125&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-<br />
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahnawazhussain125&theme=radical&show_icons=true&hide_border=true)
 <br />
 [![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahnawazhussain125&theme=radical&hide_border=true&layout=compact)](https://github.com/shahnawazhussain125/github-readme-stats)
