@@ -126,8 +126,6 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Stats
 
-# 📊GitHub Stats :
-
 ![](https://github-readme-stats.vercel.app/api?username=shahnawazhussain125&theme=gotham&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shahnawazhussain125&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shahnawazhussain125&theme=gotham&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
