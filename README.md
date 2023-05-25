@@ -126,17 +126,11 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Stats
 
-<p align="left">
+# 📊GitHub Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shahnawazhussain125&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahnawazhussain125&theme=radical&show_icons=true&hide_border=true)
-<br />
-[![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahnawazhussain125&theme=radical&hide_border=true&layout=compact)](https://github.com/shahnawazhussain125/github-readme-stats)
-<br />
-<img src="https://activity-graph.herokuapp.com/graph?username=shahnawazhussain125&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
-
-</p>
+![](https://github-readme-stats.vercel.app/api?username=shahnawazhussain125&theme=gotham&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=shahnawazhussain125&theme=gotham&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shahnawazhussain125&theme=gotham&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ## ⭐ Thanks for the visit!
 
