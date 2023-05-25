@@ -124,7 +124,6 @@ Here are some ideas to get you started:
 ![UBUNTU](https://img.shields.io/badge/ubuntu-dd4814.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![VSC](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![XCODE](https://img.shields.io/badge/xcode-324ed6.svg?style=for-the-badge&logo=xcode&logoColor=white)
-![XCODE](https://img.shields.io/badge/xcode-324ed6.svg?style=for-the-badge&logo=xcode&logoColor=white)
 ![ANDROIDSTUDIO](https://img.shields.io/badge/android%20studio-78c257.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 <br />
